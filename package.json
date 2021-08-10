@@ -1,0 +1,24 @@
+{
+  "name": "pizza-hunt",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arand013/pizza-hunt.git"
+  },
+  "author": "arand013",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arand013/pizza-hunt/issues"
+  },
+  "homepage": "https://github.com/arand013/pizza-hunt#readme"
+}
