@@ -15,6 +15,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/pizza-hunt', {
 });
 
 // Use this to log mongo queries being executed!
+//Merged
 mongoose.set('debug', true);
 
 app.use(require('./routes'));
